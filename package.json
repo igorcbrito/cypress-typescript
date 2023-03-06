@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cypress": "^12.7.0"
+  },
+  "name": "cypress-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "igor brito",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
